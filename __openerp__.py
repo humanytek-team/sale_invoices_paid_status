@@ -4,7 +4,7 @@
 
 {
     'name': 'Add payment status of invoices to sale orders',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Sale',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
